@@ -15,6 +15,14 @@
     {
       "question": "how are you",
       "answer": "kinda good... kinda bad (?)"
+    },
+    {
+      "question": "wow",
+      "answer": "dAmn"
+    },
+    {
+      "question": "exit",
+      "answer": "pls type \"quit\""
     }
   ]
 }
